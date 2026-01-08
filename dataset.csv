@@ -1,0 +1,24 @@
+instructions,correct_tools,correct_answer
+What is 9+17?,["calculator"],26
+What is (2+2)*3?,"['calculator','calculator']",12
+What is 100/25?,["calculator"],4
+What is 100001 - 53?,["calculator"],99948
+What is 2*3/2?,"['calculator','calculator']",3
+What is the Hourly Rate for Task 1 in the projact management dashboard plus 7?,"['monday','calculator']",107
+What is the number of hours worked for Task 1 in the projact management dashboard?,"['monday']",50
+What is the number of hours worked for Task 1 in the projact management dashboard multiplied by the number of hours worked in Task 1?,"['monday','monday','calculator']",5000
+What is the hourly rate of Task 1 in the projact management dashboard minus the hourly rate of Task 2?,"['monday','monday','calculator']",25
+How many ants can the green woodpecker eat in a day?,["vector"],2000
+How many categories do scientists typically group birds into?,["vector"],30
+Do large birds take longer to hatch than small birds?,["vector"],Yes
+Is the Hummingbird the only bird with a bill longer than its body?,["vector"],Yes
+What is the number of feathers on the whistling swan minus the number of bird species?,"['vector','vector','calculator']",15500
+Is the temperature in Singapore more humid than the habitat of the Desert Lark?,"['weather','vector']",Yes
+Is the temperature in Quito warmer than the habitat of the Emperor Penguin?,"['weather','vector']",Yes
+What is the timestamp for the most oldest answer given by the Superwise application?,"['sql']",2025-07-25T16:19:28.131
+What is the timestamp for the most oldest question given to the Superwise application?,"['sql']",2025-07-25T16:19:27.875
+What is the application ID for the Superwise application?,"['sql']",74178a9c-9f9a-4681-ba00-7e1b929c63d6
+How many seconds is the fastest response time given by the Superwise application?,"['sql']",0.044734
+What is the sum of the fastest Superwise response time and the smallest Superwise word count?,"['sql','sql','calculator']",92.044734
+Is the smallest Superwise word count larger than the number of birds the marsh warbler can mimic?,"['sql','vector']",Yes
+
